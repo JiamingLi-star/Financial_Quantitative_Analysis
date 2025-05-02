@@ -1,5 +1,10 @@
 # Financial Quantitative Analysis 📈
 
+
+✨ *This is my first end-to-end financial Python project.*  
+I built it to learn how to combine data analysis, backtesting, and machine learning.  
+Feel free to **use, fork, or suggest improvements** – any feedback is welcome!
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 
